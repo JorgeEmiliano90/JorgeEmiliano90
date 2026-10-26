@@ -37,11 +37,16 @@ Contributing to **Chronos foundation models for time-series forecasting**, with 
 - Covariate-aware time-series modeling
 - Production-oriented forecasting systems
 
-### 🚀 Co-Founder @ NORDATA.AI
+### 🧠 Founder & Principal Architect @ Nordata Analytics
 
-- Leading technical vision and product architecture for AI and data products.
+- Architecting **Nordata Brain**: an enterprise decision, value, and learning engine designed to close the loop between forecasting, human action, and outcome measurement (**DETECT → ACT → MEASURE**).
+- Developed **Echo-Base**: a persistent memory layer built on **TypeScript**, **Model Context Protocol (MCP)**, and **LanceDB** to prevent context blindness and architectural drift in AI agent networks.
+- Designing deterministic learning feedback loops for model calibration, bias tracking, and business impact verification without blind retraining.
+
+### 🚀 Ex-Co-Founder @ NORDATA.AI *(Acquired)*
+
+- Co-founded and led technical strategy and architecture for AI, analytics, and data products across Latin America.
 - Designed end-to-end analytics platforms supporting both real-time and batch workloads.
-- Built Generative AI capabilities for natural-language interaction with complex business data.
 - Delivered production AI solutions across aviation, automotive, real estate, and enterprise analytics.
 
 ### 🟡 Ex-Mercado Livre
@@ -156,7 +161,7 @@ Over time, I'll use it to share selected work around:
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/jorge-emiliano) · [NORDATA.AI](https://nordataai.com)
+[LinkedIn](https://www.linkedin.com/in/jorge-emiliano) · [NordataAnalytics](https://nordataanalytics.com)
 
 ---
 
