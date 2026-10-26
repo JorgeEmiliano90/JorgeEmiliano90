@@ -136,7 +136,7 @@ The harder — and more interesting — problem is building the surrounding syst
 
 ## 🌎 Beyond the Code
 
-- **Building:** AI, analytics, and software products through **NORDATA.AI**
+- **Building:** **Nordata Brain** & AI decision infrastructure via **Nordata Analytics.**
 - **Education:** Data Science @ Universidad de Buenos Aires
 - **Domains:** E-commerce, fintech, enterprise AI, forecasting, and applied machine learning
 - **Interests:** GenAI, foundation models, ML systems, experimentation, and scalable AI infrastructure
